@@ -194,5 +194,3 @@ python src/main.py
 This project is open-source and available for learning, research, and educational purposes.
 
 ---
-
-### ⭐ If you found this project useful, consider giving it a star on GitHub!
